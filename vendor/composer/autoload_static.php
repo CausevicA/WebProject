@@ -6,6 +6,11 @@ namespace Composer\Autoload;
 
 class ComposerStaticInit66b616fb7e7008c4e0e53c8f337934cb
 {
+    public static $files = array (
+        'fc73bab8d04e21bcdda37ca319c63800' => __DIR__ . '/..' . '/mikecao/flight/flight/autoload.php',
+        '5b7d984aab5ae919d3362ad9588977eb' => __DIR__ . '/..' . '/mikecao/flight/flight/Flight.php',
+    );
+
     public static $classMap = array (
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
     );
